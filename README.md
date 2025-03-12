@@ -17,3 +17,5 @@
   <img alt="Carlos-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img alt="Carlos-Node" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
+
+![snake gif](https://github.com/cguilhermear/cguilhermear/blob/output/github-contribution-grid-snake.svg)
